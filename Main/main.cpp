@@ -9,7 +9,7 @@ int main () {
     const int screenHeight = 600;
     int ball_x = 100;
     int ball_y = 100;
-    int ball_speed_x = 5;
+    int ball_speed_x = 500;
     int ball_speed_y = 5;
     int ball_radius = 15;
 
