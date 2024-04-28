@@ -1,1 +1,1 @@
-# Ping-Pong-game-in-C-
+# Ping-Pong-game-in-C++
